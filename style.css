@@ -115,6 +115,7 @@ body {
 }
 .footer input[type="text"]:focus::-webkit-input-placeholder {
   color: white;
+  font-size: 18px;
 }
 .footer input[type="text"]:focus::-moz-placeholder {
   color: white;
